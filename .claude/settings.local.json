@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config user.email \"namgyo@gmail.com\")",
+      "Bash(git config user.name \"Alley\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
